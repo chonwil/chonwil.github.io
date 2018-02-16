@@ -31,6 +31,16 @@
     </item>
     
     <item>
+      <title>Skills</title>
+      <link>https://chonwil.github.io/pages/skills/</link>
+      <pubDate>Fri, 16 Feb 2018 19:44:23 -0300</pubDate>
+      
+      <guid>https://chonwil.github.io/pages/skills/</guid>
+      <description> This is a non-exhaustive list of the technologies I&amp;rsquo;ve used and skills I&amp;rsquo;ve developed over the past 15 years:
+Frontend  HTML JS frameworks: jQuery, Vue.js, React Mobile: React Native CSS, SASS, LESS  Backend  Specialised in PHP coding since 2007 Drupal 7 MVC frameworks: CakePHP, Laravel + other custom PHP frameworks Testing: phpunit, codeception, Selenium WebDriver SQL databases: MySQL, SQL Server Other languages: C#, bash, ASP.NET, R, python  Operations  Linux server administration Windows IIS/Sharepoint server administration Version control: Git, SVN Performance testing: Apache JMeter Cloud hosting &amp;amp; infrastructure: AWS, Azure  Project Management  Certified Scrum Master training (2013)  Data Analytics &amp;amp; Machine Learning  Tableau AzureML Microsoft Professional Program for Data Science  </description>
+    </item>
+    
+    <item>
       <title>Welcome to my new site</title>
       <link>https://chonwil.github.io/posts/welcome/</link>
       <pubDate>Fri, 16 Feb 2018 19:03:55 -0300</pubDate>
