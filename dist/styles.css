@@ -222,3 +222,10 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .author-meta span { display: block; margin: 18px 0; }
  .footer-copyright { padding: 0 10px; }
 }
+input, textarea { font-size: .8em; font-family: 'proxima-nova-soft', sans-serif; border: 1px solid #ddd; background: #fff; padding: .9em; transition: all .3s ease-in-out; width: 100%; box-sizing: border-box; }
+input.code, textarea.code { font-family: "source-code-pro", monospace; }
+input:focus, textarea:focus { border-color: #f03838; outline: none; box-shadow: 0 0 5px 1px #f03838; }
+button, a.button { font-size: 1em; text-transform: uppercase; font-weight: 600; border: 2px solid #f03838; color: #f03838; background: transparent; line-height: 1em; padding: .6em .9em; transition: all .3s ease-in-out; }
+button:hover, a.button:hover { border-color: #000; color: #000; }
+button[disabled], button[disabled]:hover, a.button[disabled],
+a.button[disabled]:hover { color: #ffc1c1 838; border-color: #ffc1c1 838; }
